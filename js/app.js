@@ -5,19 +5,10 @@
   var PASSCODE = "1234";
   var LOADING_MS = 3000;
 
-  var FLOWER_CYCLE = [
-    "assets/flowers/flower-1.png",
-    "assets/flowers/flower-2.png",
-    "assets/flowers/flower-3.png",
-    "assets/flowers/flower-1.png",
-    "assets/flowers/flower-2.png",
-    "assets/flowers/flower-3.png",
-    "assets/flowers/flower-3.png",
-    "assets/flowers/flower-1.png",
-    "assets/flowers/flower-1.png",
-    "assets/flowers/flower-2.png",
-  ];
-
+const FLOWER_CYCLE = [
+  "images/flower-1.png",
+  "images/flower-2.png"
+];
   var PHOTOS = [
     "assets/photos/image1.jpg",
     "assets/photos/image2.jpg",
